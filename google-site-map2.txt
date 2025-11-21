@@ -8,18 +8,19 @@
 
 <url>
   <loc>http://kluczekrakow.pl/</loc>
-  <lastmod>2009-12-19T19:54:23+00:00</lastmod>
+  <lastmod>2025-11-21T16:54:23+00:00</lastmod>
 </url>
 <url>
   <loc>http://kluczekrakow.pl/index.html</loc>
-  <lastmod>2009-12-19T19:54:23+00:00</lastmod>
+  <lastmod>2025-11-21T16:54:23+00:00</lastmod>
 </url>
 <url>
   <loc>http://kluczekrakow.pl/oferta.html</loc>
-  <lastmod>2009-12-19T19:54:26+00:00</lastmod>
+  <lastmod>2025-11-21T16:54:23+00:00</lastmod>
 </url>
 <url>
   <loc>http://kluczekrakow.pl/dojazd.html</loc>
-  <lastmod>2009-12-19T19:54:21+00:00</lastmod>
+  <lastmod>2025-11-21T16:54:23+00:00</lastmod>
 </url>
+
 </urlset>
